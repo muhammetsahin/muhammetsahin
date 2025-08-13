@@ -68,39 +68,14 @@
 <!-- TODO: Set up GitHub Actions to auto-update this section -->
 <!--END_SECTION:activity-->
 
-
-## 🏗️ Featured Projects
-<!-- TODO:  Add details and links to 3-5 most impactful projects -->
-<!-- Example below - replace with your actual projects -->
-<div align="center">
-
-### 🌟 Project Name 1 (repo-link)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammetsahin&repo=REPO_NAME&theme=tokyonight)](repo-link)
-
-**Tech Stack:** Java, Spring, PostgreSQL, AWS
-**Status:** 🚀 Production | ⭐ 100+ Stars | 🍴 30+ Forks
-*Brief description of what this project does and why it's awesome*
-
----
-
-### 🔥 Project Name 2 (repo-link)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammetsahin&repo=REPO_NAME&theme=tokyonight)](repo-link)
-
-**Tech Stack:**  .NET, Postgresql
-**Status:** ✅ Complete | ⭐ 50+ Stars | 🍴 15+ Forks
-*Another amazing project description*
-
-</div>
-
-
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsahin) <!-- TODO: Verify and add correct LinkedIn URL -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetsahin@vepara.com) <!-- TODO: Add correct email address -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsahin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eem_muhammed@hotmail.com) 
 
 ### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/muhammetsahin?style=social)](https://github.com/muhammetsahin)
+[![GitHub followers](https://img.shields.io/github/followers/muhammetsahin?style=social)](https://github.com/muhammetmsahin)
 
 </div>
 
@@ -112,7 +87,7 @@ If you found my projects helpful or learned something from my code, consider sup
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammetsahin) <!-- TODO: Replace with your Buy Me A Coffee username -->
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammetsahin)
 
 </div>
 
