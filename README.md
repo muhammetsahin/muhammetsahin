@@ -71,7 +71,7 @@
 ## 🌐 Let's Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsahin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eem_muhammed@hotmail.com) 
+
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/muhammetsahin?style=social)](https://github.com/muhammetmsahin)
