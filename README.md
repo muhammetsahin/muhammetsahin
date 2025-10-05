@@ -1,4 +1,4 @@
-# 👨‍💻 Muhammet Sahin | Founder @Dakicksoft | CTO at @Vepara
+# 👨‍💻 Muhammet Sahin | Founder @Dakicksoft and @Regnos.io
 ### 🚀 Payments and Banking IT Architect, Inventor, Mentor
 
 <div align="center">
@@ -7,11 +7,11 @@
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **Internal projects at Vepara focusing on payment systems enhancements.** <!-- TODO: Add more detail about current projects -->
-- 🌱 Learning: **Cutting-edge advancements in blockchain technology for financial applications.** <!-- TODO: Add more specific learning goals -->
+- 🔭 Working on: **Internal projects at Regnos focusing on fraud systems enhancements.** 
+- 🌱 Learning: **Cutting-edge advancements in blockchain technology for financial applications.**
 - 👯 Looking to collaborate on: **Open source projects related to secure payment gateways and financial data analysis.**
 - 💬 Ask me about: **Payment system architecture, secure coding practices in finance, and innovative solutions in FinTech.**
-- ⚡ Fun fact: **I hold a patent for a novel financial transaction processing method.** <!-- TODO: Add more details about the patent if possible -->
+- ⚡ Fun fact: **I hold a patent for a novel financial transaction processing method.** 
 
 
 ## 🛠️ Technology Arsenal
